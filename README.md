@@ -1,3 +1,3 @@
 # yqksh
 疫情可视化
-jupyter文件
+.ipynb为jupyter文件可直接运行
